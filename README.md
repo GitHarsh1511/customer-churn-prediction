@@ -13,7 +13,7 @@
 ## 🚀 Live Demo
 
 > **[Launch Dashboard →](https://your-app-name.streamlit.app)**
-> *(Replace this link after deploying to Streamlit Cloud)*
+> *(https://customer-churn-prediction-zyee2026.streamlit.app/)*
 
 ---
 
